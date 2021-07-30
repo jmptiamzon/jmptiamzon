@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p><img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/nichijou-rain-1.gif"/></p>
+
 <!--
 **jmptiamzon/jmptiamzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
