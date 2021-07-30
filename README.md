@@ -1,4 +1,4 @@
-### <span>Hi there <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/wave.gif" style="float:left"/></span>
+### Hi there 👋
 
 <div>
   <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/nichijou-rain-1.gif" style="float:left"/>
