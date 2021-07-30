@@ -1,9 +1,12 @@
-### Hi there 👋
+### <span>Hi there <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/wave.gif" style="float:left"/></span>
 
 <div>
   <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/nichijou-rain-1.gif" style="float:left"/>
   <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/nichijou-rain-2.gif" width="356" height="196" style="float:right"/>
 </div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmptiamzon&theme=tokyonight)
+
 
 <!--
 **jmptiamzon/jmptiamzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
