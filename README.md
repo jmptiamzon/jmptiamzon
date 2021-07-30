@@ -5,6 +5,8 @@
   <img src="https://github.com/jmptiamzon/jmptiamzon/blob/main/nichijou-rain-2.gif" width="356" height="196" style="float:right"/>
 </div>
 
+</br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmptiamzon&theme=tokyonight)
 
 
