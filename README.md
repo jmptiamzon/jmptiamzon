@@ -8,7 +8,7 @@
 </br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmptiamzon&theme=tokyonight)
+<span>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmptiamzon&theme=tokyonight)</span>
 
 </br>
 
