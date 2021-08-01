@@ -11,8 +11,9 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lbpqvnf2xqcyb2rhzq0dcwjfc&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 </br>
-
+<span style="float:right">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmptiamzon&theme=tokyonight)
+</span>
 
 
 
